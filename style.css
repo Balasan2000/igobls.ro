@@ -95,7 +95,7 @@ nav a:hover {
     text-align: center;
     padding: 80px 20px;
     position: relative;
-    min-height: 520px;
+    min-height: 80vh;
 }
 
 .hero::before {
